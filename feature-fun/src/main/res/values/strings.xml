@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fun_btn_name">Start</string>
+    <string name="fun_btn_name_click">Click me!</string>
+
+    <string name="fun_text_ready">Ready</string>
+    <string name="fun_text_steady">Steady</string>
+    <string name="fun_text_go">Go!</string>
+    <string name="fun_text_best_score">"Your best score is: %1$d"</string>
+    <string name="fun_text_no_score">You don\'t have result</string>
+
+    <string name="error_message_network">Network problem</string>
+    <string name="error_message_db">Db problem</string>
+</resources>
